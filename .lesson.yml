@@ -1,0 +1,7 @@
+---
+title: "Amazon Orders"
+type: "challenge"
+description: "Write classes to represent online orders."
+tags: "javascript, testing"
+ignore:
+- "amazon-orders.md"
